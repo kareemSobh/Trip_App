@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trip App</string>
+    <string name="explorer_nthe_world">Explorer\nThe world</string>
+    <string name="manage_your_trips_with_our_app">Manage your trips\nwith our app</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="travel_made_neffortless">Travel Made \nEffortless</string>
+    <string name="travel">Travel</string>
+    <string name="flights">flights</string>
+    <string name="boats">boats</string>
+    <string name="bus">bus</string>
+    <string name="upcoming_schedules">upcoming schedules</string>
+    <string name="title">title</string>
+
+
+</resources>
